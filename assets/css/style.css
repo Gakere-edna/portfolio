@@ -4,7 +4,7 @@
 :root {
   --primary: #12ff69;
   --primary-hover: #0cc2b3;
-  --dark-primary: #1b1f24;
+  --dark-primary: #1e2630;
 }
 
 * {
@@ -164,7 +164,7 @@ ul.social-icons {
 
 /* About Section */
 section.about-section {
-  background-color: #22282f;
+  background-color: #484646;
   color: #fff;
   display: flex;
   align-items: center;
