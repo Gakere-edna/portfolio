@@ -2,8 +2,8 @@
 
 /* Global variables */
 :root {
-  --primary: #12ff69;
-  --primary-hover: #0cc2b3;
+  --primary: #12c0ff;
+  --primary-hover: #11a397;
   --dark-primary: #1e2630;
 }
 
@@ -66,7 +66,7 @@ header ul li a:hover {
 
 /* Hero Section */
 section.hero-section {
-  background:linear-gradient(to right, rgb(126, 235, 126), rgb(10, 145, 10), rgb(43, 165, 87));
+  background:linear-gradient(to right, rgb(126, 228, 235), rgb(30, 105, 104), rgb(32, 113, 194));
   color: #fff;
   display: flex;
   align-items: center;
@@ -164,7 +164,7 @@ ul.social-icons {
 
 /* About Section */
 section.about-section {
-  background-color: #484646;
+  background-color: #464748;
   color: #fff;
   display: flex;
   align-items: center;
